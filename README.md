@@ -31,8 +31,7 @@ https://github.com/user-attachments/assets/9ce4067c-729f-4c9c-a2e1-81b6c020628c
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/K-Means-Pixel-Art.git](https://github.com/YOUR_USERNAME/K-Means-Pixel-Art.git)
-    cd K-Means-Pixel-Art
+   https://github.com/muhammetdiktepe/K-Means-Pixel-Art-Converter.git
     ```
 
 2.  **Install dependencies:**
