@@ -66,4 +66,3 @@ Don't want to deal with code? You can download the ready-to-use `.exe` file from
 * **LinkedIn:** https://www.linkedin.com/in/muhammet-diktepe-08a48839b/
 
 ---
-*This project was developed as an assignment for [University/Course Name] to demonstrate the application of K-Means clustering in image processing.*
